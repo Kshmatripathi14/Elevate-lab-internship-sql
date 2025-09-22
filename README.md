@@ -9,4 +9,4 @@ It is designed for **MySQL, PostgreSQL, and SQLite** (with minor syntax changes)
 │── schema.sql # SQL DDL script
 │── er_diagram.png # ER diagram image
 │── README.md # Documentation
-│── LICENSE # MIT License
+│── LICENSE # MIT License 
